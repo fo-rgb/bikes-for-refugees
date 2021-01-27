@@ -9,10 +9,14 @@
 html,
 body {
 	font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
+	color:black;
+	font-style: normal;
 }
 
 button {
 	font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
+	color: brown;
+	background-color: white;
 }
 
 /*  Navigation */
