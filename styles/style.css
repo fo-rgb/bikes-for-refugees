@@ -11,12 +11,13 @@ body {
 	font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
 	color:black;
 	font-style: normal;
+	background-color:whitesmoke;
 }
 
 button {
 	font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
-	color: brown;
-	background-color: white;
+	color:cyan;;
+	background-color:#292b2c;
 }
 
 /*  Navigation */
@@ -31,9 +32,10 @@ button {
 }
 
 .navbar-light .navbar-nav .nav-link {
-	color: #292b2c;
+	color:cyan;
 	font-weight: 600;
 	text-transform: uppercase;
+	background-color: #292b2c; 
 
 	/*  Challenge: can you make the navigation links orange on hover? */
 }
@@ -133,7 +135,8 @@ button {
 	border-top: 1px solid #dccdc6;
 	padding-top: 2em;
 	padding-bottom: 2em;
-	background-color: blue;
+	background-color: #292b2c;
+	color:cyan;
 }
 
 /* Media queries */
