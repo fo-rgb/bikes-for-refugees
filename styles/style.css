@@ -18,6 +18,17 @@ button {
 	font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
 	color:cyan;;
 	background-color:#292b2c;
+padding: 8% 20px;
+
+	
+	
+
+}
+#musa{
+justify-content: space-around;
+	display: flex;
+
+
 }
 
 /*  Navigation */
